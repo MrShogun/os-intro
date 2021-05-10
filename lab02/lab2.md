@@ -30,7 +30,8 @@
 
 Создание структуры каталога (М2)
 
-![](media/image1.png){width="4.875681321084865in"
+![lab02_1](https://user-images.githubusercontent.com/83004263/117708184-28c54000-b1d8-11eb-894f-fb0087cfa5dc.png)
+{width="4.875681321084865in"
 height="3.0316732283464565in"}
 
 Создал пустой репозиторий на github и заготовку README, после сделал
