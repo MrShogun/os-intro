@@ -31,62 +31,60 @@
 Создание структуры каталога (М2)
 
 ![lab02_1](https://user-images.githubusercontent.com/83004263/117708184-28c54000-b1d8-11eb-894f-fb0087cfa5dc.png)
-{width="4.875681321084865in"
-height="3.0316732283464565in"}
 
 Создал пустой репозиторий на github и заготовку README, после сделал
 первый коммит
 
-![](media/image2.png){width="6.282127077865267in"
-height="3.760941601049869in"}
+![lab02_2](https://user-images.githubusercontent.com/83004263/117708290-498d9580-b1d8-11eb-834f-d9a8f737a580.png)
+
 
 Выложил первый коммит на github
 
-![](media/image3.png){width="6.240454943132108in"
-height="3.6150885826771653in"}
+![lab02_3](https://user-images.githubusercontent.com/83004263/117708308-514d3a00-b1d8-11eb-934d-1f98fdc325f3.png)
+
 
 Добавил файл лицензии и шаблон игнорируемых файлов
 
-![](media/image4.png){width="6.313381452318461in"
-height="2.6774573490813647in"}
+![lab02_4](https://user-images.githubusercontent.com/83004263/117708326-56aa8480-b1d8-11eb-8359-8402569afc3d.png)
+
 
 Добавил шаблон C++, добавил новые файлы, сделал второй коммит
 
-![](media/image5.png){width="6.177946194225722in"
-height="3.781778215223097in"}
+![lab02_5](https://user-images.githubusercontent.com/83004263/117709922-2c59c680-b1da-11eb-9449-9bdd6d94bbed.png)
+
 
 Отправил на github
 
-![](media/image6.png){width="5.521604330708661in"
-height="1.5731364829396326in"}
+![lab02_6](https://user-images.githubusercontent.com/83004263/117709966-38458880-b1da-11eb-82df-5f8ea61168e0.png)
+
 
 Инициализировал git-flow (настроил конфигурацию)
 
-![](media/image7.png){width="5.250732720909887in"
-height="3.583834208223972in"}
+![lab02_7](https://user-images.githubusercontent.com/83004263/117710028-4dbab280-b1da-11eb-8abd-c1deaa87bdb0.png)
+
 
 Проверил, что я на ветке develop и создал релиз версии 1.0.0
 
-![](media/image8.png){width="5.1673884514435695in"
-height="2.6462029746281717in"}
+![lab02_8](https://user-images.githubusercontent.com/83004263/117710050-5317fd00-b1da-11eb-9740-8195ed8277ff.png)
+
 
 Записал версию и добавил файлы (на эту ветку)
 
-![](media/image9.png){width="6.198781714785651in"
-height="2.531603237095363in"}
+![lab02_9](https://user-images.githubusercontent.com/83004263/117710079-59a67480-b1da-11eb-8b20-863e5f8d8abe.png)
+
 
 Добавил в индекс и залил релизную ветку в основную
 
-![](media/image10.png){width="6.146691819772529in"
-height="3.302544838145232in"}
+![lab02_10](https://user-images.githubusercontent.com/83004263/117710089-5dd29200-b1da-11eb-9837-7b379ecd9e99.png)
+
 
 Запушил все ветки на github
 
-![](media/image11.png){width="6.21961832895888in"
-height="3.6255063429571304in"}
+![lab02_11](https://user-images.githubusercontent.com/83004263/117710101-61feaf80-b1da-11eb-875c-80299a419fb8.png)
 
-![](media/image12.png){width="5.479932195975503in"
-height="0.8334492563429571in"}
+
+![lab02_12](https://user-images.githubusercontent.com/83004263/117710112-65923680-b1da-11eb-953c-f7fdeaba58f8.png)
+
 
 **Контрольные вопросы:**
 
