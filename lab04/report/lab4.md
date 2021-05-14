@@ -64,30 +64,52 @@ XfCe) и оконных менеджерах (Openbox). На моём рабоч
 версии GNOME и другие.
 
 ![GNOME](image/GNOME.png) - GNOME
+
 ![Mate](image/Mate.png) - Mate
+
 ![XfCe](image/XfCe.png) - XfCe
+
 ![Openbox](image/Openbox.png) - Openbox
 
 10) Изучил список установленных программ. Запустил поочерёдно браузер, текстовый редактор, текстовый процессор, эмулятор консоли.
 Браузер:
+
 ![GNOME_browser](image/GNOME_browser.png) - GNOME
+
 ![Mate](image/Mate_internet.png) - Mate
+
 ![XfCe](image/XfCe_browser.png) - XfCe
+
 ![Openbox](image/Openbox_browser.png) - Openbox
+
 Текстовый редактор:
-![GNOME](image/GNOME_editer_'текстовый редактор'.png) - GNOME Текстовый редактор
+
+![GNOME_textediter](image/GNOME_editer_textediter.png) - GNOME Текстовый редактор
+
 ![Mate_KWrite](image/Mate_KWrite.png) - Mate Kwrite
+
 ![XfCe_Kwrite](image/XfCe_editer_Kwrite.png) - XfCe KWrite 
+
 ![Openbox_KWrite](image/Openbox_editer_KWrite.png) - Openbox KWrite
+
 Текстовый процессор:
+
 ![GNOME_LibreOffice](image/GNOME_editer_LibreOffice.png) - GNOME LibreOffice Writer
+
 ![Mate_LibreOffice](image/Mate_processor_LibreOffice.png) - Mate LibreOffice Writer
-![XfCe_LibreOffice](image/XfCe_editer__LibreOffice.png) - XfCe LibreOffice Writer
+
+![XfCe_LibreOffice](image/XfCe_editer_LibreOffice.png) - XfCe LibreOffice Writer
+
 ![Openbox_Office](image/Openbox_editer_Office.png) - Openbox
+
 Эмулятор консоли:
+
 ![GNOME](image/GNOME_console.png) - GNOME
+
 ![Mate](image/Mate_console.png) - Mate
+
 ![XfCe](image/XfCe_console.png) - XfCe
+
 ![Openbox](image/Openbox_console.png) - Openbox
 
 ## Контрольные вопросы:
