@@ -6,7 +6,7 @@ author: |
 	Дмитрий И. Николаев\inst{1}
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
-date: NEC--2021, 2021 Moscow, Russian Federation
+date: 2021 Moscow, Russian Federation
 
 ## Formatting
 toc: false
